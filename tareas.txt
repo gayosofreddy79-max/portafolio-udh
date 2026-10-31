@@ -1,3 +1,5 @@
 Tarea 1: Configurar Git
 Tarea 2: Crear repositorio en GitHub
 Tarea 3: Practicar ramas
+Tarea 4: Abrir un pull request
+Tarea 5: Resolver un merge conflict
